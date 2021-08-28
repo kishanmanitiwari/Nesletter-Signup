@@ -1,5 +1,5 @@
 # Nesletter-Signup
-📰 A simple newsletter signup page to allow users to add themselves in the mailing list to receive monthly emails of the organisation.
+📰 A simple newsletter signup page to allow users to add themselves in the mailing list to receive monthly emails of the organization.
 
 ## Live - https://aqueous-waters-63655.herokuapp.com/
 
